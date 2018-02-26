@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pilka.CSharp.Plugins", "pilka.CSharp.Plugins.csproj", "{B270B05B-45E4-2559-1B97-62715649D4D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pilka.CSharp", "pilka.CSharp.csproj", "{27F1DA04-2996-58D6-B126-889546265427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pilka.CSharp.Editor.Plugins", "pilka.CSharp.Editor.Plugins.csproj", "{B641C82B-4935-EE62-4492-73E3405BDBB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B270B05B-45E4-2559-1B97-62715649D4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B270B05B-45E4-2559-1B97-62715649D4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B270B05B-45E4-2559-1B97-62715649D4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B270B05B-45E4-2559-1B97-62715649D4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F1DA04-2996-58D6-B126-889546265427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F1DA04-2996-58D6-B126-889546265427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F1DA04-2996-58D6-B126-889546265427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F1DA04-2996-58D6-B126-889546265427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B641C82B-4935-EE62-4492-73E3405BDBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B641C82B-4935-EE62-4492-73E3405BDBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B641C82B-4935-EE62-4492-73E3405BDBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B641C82B-4935-EE62-4492-73E3405BDBB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
